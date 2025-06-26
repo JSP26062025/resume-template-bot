@@ -1,0 +1,7 @@
+In your local folder, create:
+
+bash
+Copy
+Edit
+mkdir -p .github/workflows
+touch .github/workflows/daily_upload.yml
